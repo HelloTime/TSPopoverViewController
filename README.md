@@ -1,9 +1,11 @@
 # TSPopoverViewController
 简单易用的弹出菜单视图
 
-https://github.com/HelloTime/TSPopoverViewController/blob/master/1.png
+![https://github.com/HelloTime/TSPopoverViewController/blob/master/1.png]()
 
-https://github.com/HelloTime/TSPopoverViewController/blob/master/2.png
+![https://github.com/HelloTime/TSPopoverViewController/blob/master/2.png]()
+
+
 
 ```
 - (IBAction)rightItemAction:(UIBarButtonItem *)sender {
